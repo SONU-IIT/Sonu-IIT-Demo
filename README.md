@@ -1,2 +1,3 @@
 # Sonu-IIT-Demo
-it's my first git repository
+it's my first git repository.
+Sonu IIT
